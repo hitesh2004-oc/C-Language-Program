@@ -10,7 +10,6 @@ int main() {
 
 	printf("Prime Factors of both Numbers:-\n");
 
-	int d = 0;
 	int i = 2;
 
 	while(n > 1 || m > 1 ) {
